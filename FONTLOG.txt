@@ -1,0 +1,86 @@
+FONTLOG
+Theano Classical Fonts
+======================
+
+This file provides detailed information on Theano Classical Fonts.
+This information should be distributed along with tTheano Classical Fonts
+and any derivative works.
+
+Basic Font Information
+----------------------
+
+Theano is a common name for some fonts I have designed from historic
+samples. Most of these fonts were initially intended as Greek-only
+faces, but finally I found it interesting to supplement them with
+stylistically compatible Latin letters, thus reproducing the general
+look of old classical text editions. For this reason Theano fonts currently
+have no additional weights or styles and don't provide extensive Unicode
+coverage: just a standard set of Latin and Greek characters (including
+the full polytonic set) and some additional characters I found interesting
+to design. Nevertheless I decided to make them publicly available in the
+hope they can be useful for other classicists or medievalists.
+
+The package is named after Theano, a famous Ancient Greek woman
+philosopher, who was first a student of Pythagoras, and supposedly became
+his wife. In 1211 or 1212 Michael Choniates, a highly educated Greek
+Metropolitan of Athens, wrote a large poem devoted to Theano. Thus Theano
+seemed a good example of a person joining the ancient and the medieval world.
+Another reason for which I selected her name is that it starts from
+theta, just like Thessalonica -- the name of my keyboard input and conversion 
+utility for Ancient Greek.
+
+ChangeLog
+---------
+
+2011 April 18 (Alexey Kryukov) Version 2.0
+
+    * Implemented a basic set of Cyrillic letters (those in windows-1251 and
+      those needed for Russian and Bulgarian pre-reform orthography).
+
+    * Added editorial signs and New Testament critical signs.
+
+    * I no longer use custom PUA mappings. I have preserved PUA codepoints for
+      a few standard glyphs (including capital accents) previously mapped there
+      by Adobe, as well as for additional accented Greek characters implemented
+      for compatibility with Ralph Hancock's fonts. Everything else has been moved
+      outside the encoding.
+
+    * Implemented a full set of subscript/superscript digits and denominators.
+
+    * New implementation for the 'frac' feature: it is now possible to build
+      any arbitrary fractions rather than just those available in Unicode in the
+      precomposed form.
+
+    * SIL's Graphite rendering technologie is now supported. The features available
+      are mostly the same as for OpenType, but there are some additions (in
+      particular it is possible to render a Greek text with accents above capitals).
+      The manual has also been changed to reflect the new functionality.
+
+    * Added human-readable stylistic set names (US English only).
+
+2008 November 23 (Alexey Kryukov) Version 1.0.1
+
+    * Wrong font names were specified in the `Preferred family' field.
+
+    * If the same set of rules is shared by several features, then
+      use just one lookup registered for more than one feature to store them.
+
+2008 November 18 (Alexey Kryukov) Version 1.0
+
+    * First public release.
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Alexey Kryukov
+E: alexios@thessalonica.org.ru
+W: http://www.thessalonica.org.ru
+D: Original Designer of Latin, Greek and Cyrillic glyphs
+
+For more information please visit the Fonts page on Thessalonica's
+website: http://www.thessalonica.org.ru/en/fonts.html.
+
+Or send an email to <alexios at thessalonica dot org dot ru>.
