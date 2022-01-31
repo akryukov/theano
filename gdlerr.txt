@@ -1,0 +1,27 @@
+Graphite Compilation Results
+
+GDL file: TheanoOldStyle-Regular.gdl
+Input font file: TheanoOldStyle-Regular.ttf
+Output font file: TheanoOldStyle-Regular_gr.ttf
+Output font family: Theano Old Style
+Silf table version: 2.0
+Create separate control file: no
+
+*******************************************************
+
+warning(3531): Version 2.0 of the Glat table will be generated.
+
+*******************************************************
+
+Table versions generated:
+  Silf: 2.0
+  Gloc: 1.0
+  Glat: 2.0
+  Feat: 2.0
+  Sill: 1.0
+
+Minimal compiler version required: 2.0
+
+*******************************************************
+
+Compilation succeeded - 0 errors, 1 warning (92 warnings ignored)

@@ -17,7 +17,7 @@
 \newcolumntype{T}[1]{>{\ttfamily}l{#1}}
 \usepackage{rotating}
 
-\defaultfontfeatures{Mapping=tex-text}
+\defaultfontfeatures{Ligatures=TeX}
 \setmainfont{OldStandardTT-Regular}
 %\setmainfont[  ItalicFont={Linux Libertine Italic},
 %                BoldFont={Linux Libertine Bold}]{TheanoOldStyle-Regular}
@@ -33,9 +33,6 @@
 \lccode"2019="2019
 
 \usepackage{array}
-%\usepackage[dvipdfm,colorlinks=true]{hyperref}
-
-\providecommand{\XeTeX}{X\kern-.125em\lower.5ex\hbox{Ǝ}\kern-.1667em\TeX}
 
 \usepackage{fancyhdr}
 \setlength{\topmargin}{48pt}
@@ -67,11 +64,13 @@
 	\smallskip
 }
 
+\makeatletter
 \newcommand\featuretitle{\@startsection {section}{1}{\z@}%
         {-18pt plus -6pt minus -12pt}%
         {12pt plus 4pt minus 8pt}%
         {\normalfont\Large\bfseries}
 }
+\makeatother
 
 \begin{document}
 
@@ -80,7 +79,7 @@
 
 \vspace{\stretch{0.1}}
 
-\centerline{\XeTeXpicfile "theano160.png" width 56mm}
+\centerline{\includegraphics[width=56mm]{theano160.png}}
 
 \vspace{\stretch{0.2}}
 
@@ -173,7 +172,7 @@ late 19\textsuperscript{th} and early 20\textsuperscript{th} century.
 
 \pageheader{Theano Didot~--- Roman Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoDidot-Regular}
 
 \sampletitle{Theano Didot Regular 10 pt}
@@ -242,7 +241,7 @@ de leurs efforts; devant lui-même s’em-
 
 \pageheader{Theano Didot~--- Cyrillic Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoDidot-Regular}
 
 \sampletitle{Theano Didot Regular 10 pt}
@@ -308,7 +307,7 @@ de leurs efforts; devant lui-même s’em-
 
 \pageheader{Theano Didot~--- Greek Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoDidot-Regular}
 
 \sampletitle{Theano Didot Regular 10 pt}
@@ -478,9 +477,9 @@ for \textit{theta} with the ‟script” form.
 \LARGE
 \begin{tabular}[c]{ccc}
 
-\fontspec[Script=Greek,RawFeature=+calt;Color=696969]{TheanoDidot-Regular}
+\fontspec[Script=Greek,RawFeature={+calt;Color=696969}]{TheanoDidot-Regular}
 θαυμασθεὶς βάρβαρος & ⇒ &
-\fontspec[Script=Greek,RawFeature=+ss11;+calt]{TheanoDidot-Regular}
+\fontspec[Script=Greek,RawFeature={+ss11;+calt}]{TheanoDidot-Regular}
 θαυμασθεὶς βάρβαρος \\
 
 \end{tabular}
@@ -488,7 +487,7 @@ for \textit{theta} with the ‟script” form.
 
 \pageheader{Theano Modern~--- Roman Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoModern-Regular}
 
 \sampletitle{Theano Modern Regular 10 pt}
@@ -556,7 +555,7 @@ the brother
 
 \pageheader{Theano Modern~--- Cyrillic Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoModern-Regular}
 
 \sampletitle{Theano Modern Regular 10 pt}
@@ -622,7 +621,7 @@ the brother
 
 \pageheader{Theano Modern~--- Greek Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoModern-Regular}
 
 \sampletitle{Theano Modern Regular 10 pt}
@@ -678,12 +677,12 @@ the brother
 ὑμᾶς προδόντα τῇ Κύρου φιλίᾳ χρῆσθαι ἢ πρὸς ἐκεῖνον ψευσάμενον μεθ᾽ ὑμῶν
 εἶναι.  εἰ μὲν δὴ δίκαια ποιήσω οὐκ οἶδα, αἱρήσομαι δ᾽ οὖν ὑμᾶς καὶ σὺν
 ὑμῖν ὅ τι ἂν δέῃ πείσομαι.  καὶ οὔποτε ἐρεῖ οὐδεὶς ὡς ἐγὼ Ἕλληνας ἀγαγὼν
-εἰς τοὺς βαρβάρους, προδοὺς τοὺς Ἕλληνας τὴν τῶν βαρβάρων φιλίαν εἱλόμην,
+εἰς τοὺς βαρβάρους, προδοὺς τοὺς Ἕλλη\-νας τὴν τῶν βαρβάρων φιλίαν εἱλόμην,
 [1.3.6] ἀλλ᾽ ἐπεὶ ὑμεῖς ἐμοὶ οὐ θέλετε πείθεσθαι, ἐγὼ σὺν ὑμῖν ἕψομαι καὶ ὅ
 τι ἂν δέῃ πείσομαι. νομίζω γὰρ ὑμᾶς ἐμοὶ εἶναι καὶ πατρίδα καὶ φίλους καὶ
 συμμάχους, καὶ σὺν ὑμῖν μὲν ἂν οἶμαι εἶναι τίμιος ὅπου ἂν ὦ, ὑμῶν δὲ
 ἔρημος ὢν οὐκ ἂν ἱκανὸς οἶμαι εἶναι οὔτ᾽ ἂν φίλον ὠφελῆσαι οὔτ᾽ ἂν ἐχθρὸν
-ἀλέξασθαι. ὡς ἐμοῦ οὖν ἰόντος ὅπῃ ἂν καὶ ὑμεῖς οὕτω τὴν
+ἀλέξασθαι. ὡς ἐμοῦ οὖν ἰόντος ὅπῃ ἂν καὶ ὑμεῖς οὕτω
 
 \end{otherlanguage}
 
@@ -897,7 +896,7 @@ it a bad choice for math typesetting).
 \pageheader{Theano Old Style~--- Roman Characters}
 \vskip-\smallskipamount
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoOldStyle-Regular}
 
 \sampletitle{Theano Old Style Regular 10 pt}
@@ -966,7 +965,7 @@ the brother
 
 \pageheader{Theano Old Style ~--- Cyrillic Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoOldStyle-Regular}
 
 \sampletitle{Theano Old Style Regular 10 pt}
@@ -1031,7 +1030,7 @@ the brother
 
 \pageheader{Theano Old Style~--- Greek Characters}
 
-\hspace\parindent\begin{minipage}[t]{\textwidth-\parindent}
+\hspace\parindent\begin{minipage}[t]{\dimexpr\textwidth-\parindent\relax}
 \fontspec{TheanoOldStyle-Regular}
 
 \sampletitle{Theano Old Style Regular 10 pt}
@@ -1386,7 +1385,7 @@ centuries typography):
 
 \pageheader{Graphite Support}
 
-Graphite is a rendering technologie developed by SIL International. It is
+Graphite is a rendering technology developed by SIL International. It is
 similar to OpenType at some aspects, but doesn't prescribe a list of features
 with predefined meanings and their possible implementations, thus leaving more
 freedom to a font designer. Another advantage of Graphite is that it gives
@@ -1570,12 +1569,13 @@ the French typographic rules. It will be on by default for a French text.
 \begin{center}
 \LARGE
 
-\begin{tabular}[c]{>{\fontspec[Script=Latin,Color=696969]{TheanoDidot-Regular}}cc
->{\fontspec[
-	Renderer=Graphite,
-	RawFeature={French Spacing Rules for Punctuation Marks=True}]{TheanoDidot-Regular}}c}
+\begin{tabular}[c]{ccc}
 
-Il a dit: «Bonjour!» & ⇒ & Il a dit: «Bonjour!»\\
+\fontspec[Script=Latin,Color=696969]{TheanoDidot-Regular}
+Il a dit: «Bonjour!» &
+⇒ &
+\fontspec[Renderer=Graphite,RawFeature={{French Spacing Rules for Punctuation Marks}=True}]{TheanoDidot-Regular}
+Il a dit: «Bonjour!»\tabularnewline
 
 \end{tabular}
 \end{center}
@@ -1591,12 +1591,13 @@ chocking for a modern classicist, but it was quite common in Greek
 \begin{center}
 \LARGE
 
-\begin{tabular}[c]{>{\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}}cc
->{\fontspec[
-	Renderer=Graphite,
-	RawFeature={Greek Accents=Above Capitals}]{TheanoDidot-Regular}}c}
+\begin{tabular}[c]{ccc}
 
-ᾨδὴ ἐν ᾍδη & ⇒ & ᾨδὴ ἐν ᾍδη \\
+\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}
+ᾨδὴ ἐν ᾍδη &
+⇒ &
+\fontspec[Renderer=Graphite,RawFeature={Greek Accents=Above Capitals}]{TheanoDidot-Regular}
+ᾨδὴ ἐν ᾍδη \tabularnewline
 
 \end{tabular}
 \end{center}
@@ -1607,12 +1608,13 @@ preferred style of the Greek mute iota in combination with capital letters.
 \begin{center}
 \LARGE
 
-\begin{tabular}[c]{>{\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}}cc
->{\fontspec[
-	Renderer=Graphite,
-	RawFeature={Greek Mute Iota with Capitals=Adscript}]{TheanoDidot-Regular}}c}
+\begin{tabular}[c]{ccc}
 
-ᾨδὴ ἐν ᾍδη & ⇒ & ᾨδὴ ἐν ᾍδη \\
+\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}
+ᾨδὴ ἐν ᾍδη &
+⇒ &
+\fontspec[Renderer=Graphite,RawFeature={Greek Mute Iota with Capitals=Adscript}]{TheanoDidot-Regular}
+ᾨδὴ ἐν ᾍδη \\
 
 \end{tabular}
 \end{center}
@@ -1625,12 +1627,13 @@ are removed, unless the “Greek Accents” feature is set to “Above Capitals�
 \begin{center}
 \LARGE
 
-\begin{tabular}[c]{>{\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}}cc
->{\fontspec[
-	Renderer=Graphite,
-	RawFeature={Capitalized Greek=True}]{TheanoDidot-Regular}}c}
+\begin{tabular}[c]{ccc}
 
-ἄυλος αὐλὸς & ⇒ & ἄυλος αὐλὸς \\
+\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}
+ἄυλος αὐλὸς &
+⇒ &
+\fontspec[Renderer=Graphite,RawFeature={Capitalized Greek=True}]{TheanoDidot-Regular}
+ἄυλος αὐλὸς\tabularnewline
 
 \end{tabular}
 \end{center}
@@ -1641,14 +1644,16 @@ the capitalized letters:
 \begin{center}
 \LARGE
 
-\begin{tabular}[c]{>{\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}}cc
->{\fontspec[
-	Renderer=Graphite,
-	RawFeature={
-		Capitalized Greek=True;
-		Greek Accents=Above Capitals}]{TheanoDidot-Regular}}c}
+\begin{tabular}[c]{ccc}
 
-ἄυλος αὐλὸς & ⇒ & ἄυλος αὐλὸς \\
+\fontspec[Script=Greek,Color=696969]{TheanoDidot-Regular}
+ἄυλος αὐλὸς &
+⇒ &
+\fontspec[Renderer=Graphite,RawFeature={
+  Capitalized Greek=True;
+  Greek Accents=Above Capitals}
+]{TheanoDidot-Regular}
+ἄυλος αὐλὸς \\
 
 \end{tabular}
 \end{center}

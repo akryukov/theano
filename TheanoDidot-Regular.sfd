@@ -4,17 +4,18 @@ FullName: Theano Didot Regular
 FamilyName: Theano Didot
 Weight: Regular
 Copyright: Copyright (c) Alexey Kryukov, 2007-2011. All rights reserved.
-UComments: "Stems: UC/LC+AAoA-Thick: 0.788+AAoA-Thin: 0.923" 
+UComments: "Stems: UC/LC+AAoA-Thick: 0.788+AAoA-Thin: 0.923"
 Version: 2.0
 ItalicAngle: 0
 UnderlinePosition: -352
 UnderlineWidth: 96
 Ascent: 1580
 Descent: 468
+InvalidEm: 0
 LayerCount: 3
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
-Layer: 2 1 "TTF"  0
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+Layer: 2 1 "TTF" 0
 XUID: [1021 675 718133685 10663932]
 UniqueID: 4169751
 FSType: 0
@@ -54,52 +55,52 @@ OS2StrikeYSize: 100
 OS2StrikeYPos: 500
 OS2FamilyClass: 768
 OS2Vendor: '    '
-Lookup: 4 0 0 "'ccmp' Simple Glyph Composition"  {"'ccmp' Simple Glyph Composition-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "'ccmp' Dotless Variants"  {"'ccmp' Dotless Variants-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "'ccmp' Cyrillic Accents"  {"'ccmp' Cyrillic Accents-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "'ccmp' Capital Accents"  {"'ccmp' Capital Accents-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "'ccmp' Subsitution for Greek Accents"  {"'ccmp' Subsitution for Greek Accents-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms for Greek"  {"'locl' Localized Forms for Greek-1"  } ['locl' ('grek' <'dflt' > ) ]
-Lookup: 1 0 0 "'case' All Caps Forms for Greek Capitals"  {"'case' All Caps Forms for Greek Capitals-1"  } ['case' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl'&'ss01' Romanian Variant Forms"  {"'ss01' Romanian Variant Forms-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) 'ss01' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss11' Greek Contextual Forms"  {"'ss11' Greek Contextual Forms-1"  } ['ss11' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives"  {"'salt' Stylistic Alternatives-1"  } ['salt' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 8 0 "'calt' Substitution for Initial/Medial/Final forms in Greek"  {"'calt' Substitution for Initial/Medial/Final forms in Greek-1"  } ['calt' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'rlig' Standard Ligatures with ZWJ"  {"'rlig' Standard Ligatures with ZWJ"  } ['rlig' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures for Latin"  {"'liga' Standard Ligatures for Latin-1"  } ['liga' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures for Latin except Turkish"  {"'liga' Standard Ligatures for Latin except Turkish-1"  } ['liga' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures for Latin"  {"'dlig' Discretionary Ligatures for Latin-1"  } ['dlig' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "'dlig' Discretionary Ligatures for German"  {"'dlig' Discretionary Ligatures for German-1"  } ['dlig' ('latn' <'DEU ' > ) ]
-Lookup: 1 0 0 "'onum' Oldstyle Figures"  {"'onum' Oldstyle Figures-1" ("oldstyle" ) } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript Forms"  {"'sups' Superscript Forms-1" ("superior" ) } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) 'numr' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) 'sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'subs' Subscript Forms"  {"'subs' Subscript Forms-1" ("inferior" ) } ['subs' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'dnom' Denominators"  {"'dnom' Denominators-1" ("dnom" ) } ['dnom' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'frac' Diagonal Fractions"  {"'frac' Diagonal Fractions-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'frac' Diagonal Fractions Contextual"  {"'frac' Diagonal Fractions Contextual-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 3 0 0 "'aalt' Access All Alternates"  {"'aalt' Access All Alternates-1"  } ['aalt' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Dotless Variants"  {"Dotless Variants-1"  } []
-Lookup: 1 0 0 "Narrow Accents for i"  {"Narrow Accents for i-1"  } []
-Lookup: 1 0 0 "Capital Accents"  {"Capital Accents-1"  } []
-Lookup: 1 0 0 "Cyrillic Accents"  {"Cyrillic Accents-1"  } []
-Lookup: 1 0 0 "Greek Accents"  {"Greek Accents-1"  } []
-Lookup: 4 0 0 "Greek Composite Accents"  {"Greek Composite Accents-1"  } []
-Lookup: 1 0 0 "Greek Iota Subscript to Adscript"  {"Greek Iota Subscript to Adscript-1"  } []
-Lookup: 1 0 0 "Medial/Final Forms for Greek"  {"Medial/Final Forms for Greek-1"  } []
-Lookup: 1 0 0 "Initial Forms for Greek"  {"Initial Forms for Greek-1"  } []
-Lookup: 1 0 0 "Superscripts to Denominators"  {"Superscripts to Denominators-1" ("dnom" ) } []
-Lookup: 263 0 0 "'RQD ' Greek Caps after Accents Positioning"  {"'RQD ' Greek Caps after Accents Positioning-1"  } [' RQD' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning"  {"'mark' Positioning for Top Accents"  "'mark' Positioning for Bottom Accents"  "'mark' Positioning for Acute"  "'mark' Positioning for Grave"  "'mark' Positioning for Dotaccent"  "'mark' Positioning for Dot Below"  "'mark' Positioning for Capital Accents"  "'mark' Positioning for Greek Accents"  "'mark' Positioning for Greek Capital Accents"  "'mark' Positioning for Iota Subscriptum"  } ['mark' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark"  {"'mkmk' Mark to Mark-1"  } ['mkmk' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning for Cyrillic" [307,0,0] "'kern' Horizontal Kerning for Greek" [307,0,0] "'kern' Horizontal Kerning for Latin" [307,0,0] } ['kern' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 257 0 0 "Greek Caps after Tonos"  {"Greek Caps after Tonos-1"  } []
-Lookup: 257 0 0 "Greek Caps after Varia"  {"Greek Caps after Varia-1"  } []
-Lookup: 257 0 0 "Greek Caps after Breathings"  {"Greek Caps after Breathings-1"  } []
-Lookup: 257 0 0 "Greek Caps after a Breathing and Oxia"  {"Greek Caps after a Breathing and Oxia-1"  } []
-Lookup: 257 0 0 "Greek Caps after a Breathing and Varia"  {"Greek Caps after a Breathing and Varia-1"  } []
-Lookup: 257 0 0 "Greek Caps after a Breathing and Perispomeni"  {"Greek Caps after a Breathing and Perispomeni-1"  } []
+Lookup: 4 0 0 "'ccmp' Simple Glyph Composition" { "'ccmp' Simple Glyph Composition-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'ccmp' Dotless Variants" { "'ccmp' Dotless Variants-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'ccmp' Cyrillic Accents" { "'ccmp' Cyrillic Accents-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'ccmp' Capital Accents" { "'ccmp' Capital Accents-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'ccmp' Subsitution for Greek Accents" { "'ccmp' Subsitution for Greek Accents-1"  } ['ccmp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms for Greek" { "'locl' Localized Forms for Greek-1"  } ['locl' ('grek' <'dflt' > ) ]
+Lookup: 1 0 0 "'case' All Caps Forms for Greek Capitals" { "'case' All Caps Forms for Greek Capitals-1"  } ['case' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl'&'ss01' Romanian Variant Forms" { "'ss01' Romanian Variant Forms-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) 'ss01' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss11' Greek Contextual Forms" { "'ss11' Greek Contextual Forms-1"  } ['ss11' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stylistic Alternatives" { "'salt' Stylistic Alternatives-1"  } ['salt' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 8 0 "'calt' Substitution for Initial/Medial/Final forms in Greek" { "'calt' Substitution for Initial/Medial/Final forms in Greek-1"  } ['calt' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'rlig' Standard Ligatures with ZWJ" { "'rlig' Standard Ligatures with ZWJ"  } ['rlig' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures for Latin" { "'liga' Standard Ligatures for Latin-1"  } ['liga' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures for Latin except Turkish" { "'liga' Standard Ligatures for Latin except Turkish-1"  } ['liga' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'MOL ' 'ROM ' 'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' Discretionary Ligatures for Latin" { "'dlig' Discretionary Ligatures for Latin-1"  } ['dlig' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' Discretionary Ligatures for German" { "'dlig' Discretionary Ligatures for German-1"  } ['dlig' ('latn' <'DEU ' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures" { "'onum' Oldstyle Figures-1" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript Forms" { "'sups' Superscript Forms-1" ("superior") } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) 'numr' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) 'sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript Forms" { "'subs' Subscript Forms-1" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'dnom' Denominators" { "'dnom' Denominators-1" ("dnom") } ['dnom' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'frac' Diagonal Fractions" { "'frac' Diagonal Fractions-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'frac' Diagonal Fractions Contextual" { "'frac' Diagonal Fractions Contextual-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates" { "'aalt' Access All Alternates-1"  } ['aalt' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "Dotless Variants" { "Dotless Variants-1"  } []
+Lookup: 1 0 0 "Narrow Accents for i" { "Narrow Accents for i-1"  } []
+Lookup: 1 0 0 "Capital Accents" { "Capital Accents-1"  } []
+Lookup: 1 0 0 "Cyrillic Accents" { "Cyrillic Accents-1"  } []
+Lookup: 1 0 0 "Greek Accents" { "Greek Accents-1"  } []
+Lookup: 4 0 0 "Greek Composite Accents" { "Greek Composite Accents-1"  } []
+Lookup: 1 0 0 "Greek Iota Subscript to Adscript" { "Greek Iota Subscript to Adscript-1"  } []
+Lookup: 1 0 0 "Medial/Final Forms for Greek" { "Medial/Final Forms for Greek-1"  } []
+Lookup: 1 0 0 "Initial Forms for Greek" { "Initial Forms for Greek-1"  } []
+Lookup: 1 0 0 "Superscripts to Denominators" { "Superscripts to Denominators-1" ("dnom") } []
+Lookup: 263 0 0 "'RQD ' Greek Caps after Accents Positioning" { "'RQD ' Greek Caps after Accents Positioning-1"  } [' RQD' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning" { "'mark' Positioning for Top Accents"  "'mark' Positioning for Bottom Accents"  "'mark' Positioning for Acute"  "'mark' Positioning for Grave"  "'mark' Positioning for Dotaccent"  "'mark' Positioning for Dot Below"  "'mark' Positioning for Capital Accents"  "'mark' Positioning for Greek Accents"  "'mark' Positioning for Greek Capital Accents"  "'mark' Positioning for Iota Subscriptum"  } ['mark' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark" { "'mkmk' Mark to Mark-1"  } ['mkmk' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning for Cyrillic" [307,0,0] "'kern' Horizontal Kerning for Greek" [307,0,0] "'kern' Horizontal Kerning for Latin" [307,0,0] } ['kern' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 257 0 0 "Greek Caps after Tonos" { "Greek Caps after Tonos-1"  } []
+Lookup: 257 0 0 "Greek Caps after Varia" { "Greek Caps after Varia-1"  } []
+Lookup: 257 0 0 "Greek Caps after Breathings" { "Greek Caps after Breathings-1"  } []
+Lookup: 257 0 0 "Greek Caps after a Breathing and Oxia" { "Greek Caps after a Breathing and Oxia-1"  } []
+Lookup: 257 0 0 "Greek Caps after a Breathing and Varia" { "Greek Caps after a Breathing and Varia-1"  } []
+Lookup: 257 0 0 "Greek Caps after a Breathing and Perispomeni" { "Greek Caps after a Breathing and Perispomeni-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 31 35 "'kern' Horizontal Kerning for Cyrillic" 
+KernClass2: 31 35 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10057
  9 afii10017
  29 afii10018 afii10019 afii10025
@@ -165,7 +166,7 @@ KernClass2: 31 35 "'kern' Horizontal Kerning for Cyrillic"
  24 quoteright quotedblright
  22 quoteleft quotedblleft
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -164 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -18 {} -108 {} -96 {} -180 {} -238 {} -80 {} 0 {} -328 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -284 {} 0 {} 0 {} 0 {} -272 {} -236 {} 0 {} 0 {} 0 {} -56 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -168 {} -136 {} -128 {} -152 {} 0 {} 0 {} -136 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} -56 {} -44 {} 0 {} -196 {} -156 {} 0 {} 0 {} -220 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} -138 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} -56 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -144 {} -48 {} 0 {} -108 {} 0 {} 0 {} 0 {} 0 {} 0 {} -132 {} -96 {} 0 {} 0 {} 0 {} 0 {} -104 {} 0 {} 0 {} 0 {} -68 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} -128 {} -176 {} -182 {} 0 {} -18 {} -88 {} 0 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} -86 {} 0 {} 0 {} 0 {} -192 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} -136 {} -104 {} -166 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -98 {} -52 {} -40 {} 0 {} -68 {} -108 {} 0 {} 0 {} -178 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -104 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -282 {} -256 {} 0 {} 0 {} -298 {} -156 {} -136 {} 0 {} 0 {} -160 {} 0 {} 0 {} -188 {} -250 {} -148 {} -212 {} -352 {} -266 {} -316 {} -262 {} -332 {} -196 {} 0 {} 0 {} -248 {} 0 {} 0 {} 0 {} -212 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -72 {} -34 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} -96 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} -112 {} 0 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -152 {} 0 {} 0 {} -108 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} -96 {} 0 {} 0 {} -84 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -84 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} -68 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -12 {} -26 {} 0 {} -156 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -62 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -68 {} 0 {} 0 {} 0 {} -26 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} -62 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} 0 {} -154 {} -80 {} -32 {} 0 {} -108 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -104 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -312 {} -328 {} 0 {} 0 {} -272 {} -202 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -326 {} -56 {} -262 {} -342 {} -306 {} -166 {} -262 {} -312 {} 0 {} -348 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -336 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -156 {} -68 {} 0 {} -36 {} -138 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -94 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -84 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -58 {} 0 {} 0 {} 0 {} -74 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -288 {} 0 {} 0 {} 0 {} -224 {} -138 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} -144 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -116 {} -104 {} 0 {} 0 {} 0 {} -248 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -332 {} -262 {} 0 {} 0 {} -244 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-KernClass2: 19 29 "'kern' Horizontal Kerning for Greek" 
+KernClass2: 19 29 "'kern' Horizontal Kerning for Greek"
  104 Alpha uni1FB8 uni1FB9 Alphatonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FBA
  4 Beta
  5 Gamma
@@ -213,7 +214,7 @@ KernClass2: 19 29 "'kern' Horizontal Kerning for Greek"
  32 omega omegatonos uni1FF3 uni1FF4
  15 uni0374 uni1FBD
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} 0 {} 0 {} 0 {} 0 {} -108 {} 0 {} -108 {} 0 {} -180 {} -188 {} -144 {} 0 {} -266 {} 0 {} -96 {} 0 {} -136 {} -36 {} -32 {} 0 {} 0 {} -184 {} -36 {} -64 {} -112 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -44 {} 0 {} -56 {} 0 {} -108 {} 0 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -168 {} 0 {} -128 {} -112 {} 0 {} -128 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} 0 {} 0 {} -180 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} -108 {} 0 {} 0 {} -188 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} -88 {} 0 {} -112 {} -206 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} 0 {} 0 {} -162 {} 0 {} -122 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} -132 {} 0 {} 0 {} 0 {} -176 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} -108 {} 0 {} -180 {} -188 {} -144 {} 0 {} -266 {} 0 {} -96 {} 0 {} 0 {} -36 {} -32 {} 0 {} 0 {} 0 {} -36 {} -64 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -88 {} -66 {} -72 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -112 {} 0 {} -140 {} 0 {} -182 {} 0 {} -148 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} 0 {} -176 {} -84 {} 0 {} -176 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -152 {} 0 {} -104 {} -128 {} 0 {} -104 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} 0 {} -150 {} 0 {} 0 {} 0 {} -126 {} 0 {} 0 {} -130 {} 0 {} 0 {} 0 {} -124 {} 0 {} -176 {} -172 {} -72 {} -176 {} -64 {} 0 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} -136 {} -164 {} 0 {} -168 {} 0 {} 0 {} 0 {} -144 {} 0 {} -124 {} -148 {} 0 {} 0 {} 0 {} -160 {} 0 {} -122 {} -144 {} 0 {} -122 {} 0 {} -136 {} 0 {} -164 {} 0 {} -148 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} -112 {} 0 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -198 {} 0 {} -232 {} 0 {} 0 {} -232 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -122 {} 0 {} 0 {} -156 {} 0 {} 0 {} 0 {} -132 {} 0 {} 0 {} -136 {} 0 {} 0 {} 0 {} 0 {} 0 {} -412 {} 0 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -126 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 89 {} 46 {} -183 {} 64 {} -31 {} -360 {} 64 {} -360 {} 61 {} 30 {} -36 {} -455 {} 156 {} -35 {} 3 {} -366 {} -116 {} -410 {} -141 {} -159 {} -108 {} 201 {} -358 {} -195 {} -150 {} -337 {} -190 {} 66 {} 0 {} 249 {} -160 {} -55 {} -406 {} -349 {} -127 {} -406 {} -127 {} -561 {} -382 {} -568 {} -106 {} -500 {} -462 {} -180 {} -127 {} -162 {} -130 {} -101 {} -158 {} 0 {} -172 {} -81 {} -142 {} 224 {} -122 {} -150 {} 263 {}
-KernClass2: 28 24 "'kern' Horizontal Kerning for Latin" 
+KernClass2: 28 24 "'kern' Horizontal Kerning for Latin"
  84 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Aringacute
  1 B
  47 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron
@@ -265,7 +266,7 @@ KernClass2: 28 24 "'kern' Horizontal Kerning for Latin"
  8 y yacute
  24 quoteright quotedblright
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} -108 {} -180 {} -144 {} -284 {} 0 {} -296 {} 0 {} 0 {} 0 {} -44 {} -44 {} 0 {} 0 {} 0 {} 0 {} -128 {} 0 {} -96 {} -272 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} -128 {} -128 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -266 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -138 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} -144 {} -132 {} -240 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -172 {} -132 {} 0 {} -76 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -276 {} -112 {} -72 {} -136 {} -72 {} -166 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -64 {} -48 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -164 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -178 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -102 {} -32 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -48 {} -156 {} 0 {} -180 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} 0 {} 0 {} -140 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} -132 {} -152 {} -240 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} -176 {} 0 {} -128 {} 0 {} 0 {} 0 {} -36 {} 0 {} -112 {} -380 {} -72 {} -62 {} -88 {} -72 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} -72 {} -136 {} 0 {} -166 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -52 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} -104 {} 0 {} -136 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -246 {} -80 {} -76 {} -108 {} -76 {} -116 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -152 {} -56 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} -280 {} -88 {} 0 {} -74 {} 0 {} -104 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -320 {} -252 {} -122 {} -222 {} -122 {} 0 {} 0 {} 0 {} 0 {} 0 {} -440 {} -160 {} -136 {} -192 {} -168 {} -160 {} -64 {} -64 {} -112 {} 0 {} 0 {} -104 {} 0 {} 0 {} 0 {} 0 {} -112 {} 0 {} -112 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -204 {} -224 {} -136 {} -246 {} -136 {} 0 {} 0 {} 0 {} 0 {} 0 {} -288 {} -176 {} -148 {} -204 {} -168 {} -196 {} -112 {} -44 {} -148 {} -170 {} 0 {} -152 {} 0 {} 0 {} 0 {} -192 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} -64 {} 0 {} -124 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} -44 {} -56 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} -24 {} -84 {} -84 {} 0 {} 0 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} 0 {} -104 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -28 {} -80 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -144 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} -32 {} -80 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -304 {} 0 {} -240 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -480 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-ChainSub2: class "'frac' Diagonal Fractions Contextual-1"  3 3 0 1
+ChainSub2: class "'frac' Diagonal Fractions Contextual-1" 3 3 0 1
   Class: 108 fraction zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
   Class: 129 zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior
   BClass: 108 fraction zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
@@ -275,11 +276,11 @@ ChainSub2: class "'frac' Diagonal Fractions Contextual-1"  3 3 0 1
   BClsList: 1
   FClsList:
  1
-  SeqLookup: 0 "Superscripts to Denominators" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Superscripts to Denominators"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
 EndFPST
-ContextSub2: class "'ccmp' Cyrillic Accents-1"  3 0 0 1
+ContextSub2: class "'ccmp' Cyrillic Accents-1" 3 0 0 1
   Class: 39 afii10026 afii10037 afii10074 afii10085
   Class: 8 brevecmb
  2 0 0
@@ -287,10 +288,10 @@ ContextSub2: class "'ccmp' Cyrillic Accents-1"  3 0 0 1
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Cyrillic Accents" 
-  ClassNames: "0"  "1"  "2"  
+  SeqLookup: 1 "Cyrillic Accents"
+  ClassNames: "0" "1" "2"
 EndFPST
-ContextPos2: class "'RQD ' Greek Caps after Accents Positioning-1"  8 1 1 6
+ContextPos2: class "'RQD ' Greek Caps after Accents Positioning-1" 8 1 1 6
   Class: 54 Alpha Epsilon Eta Iota Omicron Rho Upsilon  Omegagreek
   Class: 14 acutecomb.grek
   Class: 14 gravecomb.grek
@@ -303,42 +304,42 @@ ContextPos2: class "'RQD ' Greek Caps after Accents Positioning-1"  8 1 1 6
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Greek Caps after Tonos" 
+  SeqLookup: 0 "Greek Caps after Tonos"
  2 0 0
   ClsList: 1 3
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Greek Caps after Varia" 
+  SeqLookup: 0 "Greek Caps after Varia"
  2 0 0
   ClsList: 1 4
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Greek Caps after Breathings" 
+  SeqLookup: 0 "Greek Caps after Breathings"
  2 0 0
   ClsList: 1 5
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Greek Caps after a Breathing and Oxia" 
+  SeqLookup: 0 "Greek Caps after a Breathing and Oxia"
  2 0 0
   ClsList: 1 6
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Greek Caps after a Breathing and Varia" 
+  SeqLookup: 0 "Greek Caps after a Breathing and Varia"
  2 0 0
   ClsList: 1 7
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Greek Caps after a Breathing and Perispomeni" 
-  ClassNames: "0"  "1"  "2"  "3"  "4"  "5"  "6"  "7"  
-  BClassNames: "0"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Greek Caps after a Breathing and Perispomeni"
+  ClassNames: "0" "1" "2" "3" "4" "5" "6" "7"
+  BClassNames: "0"
+  FClassNames: "0"
 EndFPST
-ChainSub2: class "'calt' Substitution for Initial/Medial/Final forms in Greek-1"  3 3 1 2
+ChainSub2: class "'calt' Substitution for Initial/Medial/Final forms in Greek-1" 3 3 1 2
   Class: 2682 Alpha Beta Gamma Deltagreek Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omegagreek alpha betasymbolgreek gamma delta epsilon zeta eta theta iota kappa lambda mugreek nu xi omicron pi rho sigma sigma1 tau upsilon phi chi psi omega pisymbolgreek phisymbolgreek kappasymbolgreek rhosymbolgreek Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos alphatonos epsilontonos etatonos iotatonos omicrontonos upsilontonos omegatonos Iotadieresis Upsilondieresis iotadieresis upsilondieresis iotadieresistonos upsilondieresistonos uni03F4 uni1FD2 uni1FE2 uni1FD7 uni1FE7 uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F59 uni1F5B uni1F5D uni1F5F uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1F70 uni1F72 uni1F74 uni1F76 uni1F78 uni1F7A uni1F7C uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7 uni1FB8 uni1FB9 uni1FBA uni1FBC uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7 uni1FC8 uni1FCA uni1FCC uni1FD0 uni1FD1 uni1FD6 uni1FD8 uni1FD9 uni1FDA uni1FE0 uni1FE1 uni1FE4 uni1FE5 uni1FE6 uni1FE8 uni1FE9 uni1FEA uni1FEC uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7 uni1FF8 uni1FFA uni1FFC epsilon_macroncmb epsilon_brevecmb epsilon_uni0342 epsilon_uni0313_uni0342 epsilon_uni0314_uni0342 Epsilon_macroncmb Epsilon_brevecmb Epsilon_uni0313_uni0342 Epsilon_uni0314_uni0342 omicron_macroncmb omicron_brevecmb omicron_uni0342 omicron_uni0313_uni0342 omicron_uni0314_uni0342 Omicron_macroncmb Omicron_brevecmb Omicron_uni0313_uni0342 Omicron_uni0314_uni0342 Rho_uni0313 Upsilon_uni0313 Upsilon_uni0313_acutecomb Upsilon_uni0313_gravecomb Upsilon_uni0313_uni0342
   Class: 21 beta thetasymbolgreek
   BClass: 2682 Alpha Beta Gamma Deltagreek Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omegagreek alpha betasymbolgreek gamma delta epsilon zeta eta theta iota kappa lambda mugreek nu xi omicron pi rho sigma sigma1 tau upsilon phi chi psi omega pisymbolgreek phisymbolgreek kappasymbolgreek rhosymbolgreek Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos alphatonos epsilontonos etatonos iotatonos omicrontonos upsilontonos omegatonos Iotadieresis Upsilondieresis iotadieresis upsilondieresis iotadieresistonos upsilondieresistonos uni03F4 uni1FD2 uni1FE2 uni1FD7 uni1FE7 uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F59 uni1F5B uni1F5D uni1F5F uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1F70 uni1F72 uni1F74 uni1F76 uni1F78 uni1F7A uni1F7C uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7 uni1FB8 uni1FB9 uni1FBA uni1FBC uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7 uni1FC8 uni1FCA uni1FCC uni1FD0 uni1FD1 uni1FD6 uni1FD8 uni1FD9 uni1FDA uni1FE0 uni1FE1 uni1FE4 uni1FE5 uni1FE6 uni1FE8 uni1FE9 uni1FEA uni1FEC uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7 uni1FF8 uni1FFA uni1FFC epsilon_macroncmb epsilon_brevecmb epsilon_uni0342 epsilon_uni0313_uni0342 epsilon_uni0314_uni0342 Epsilon_macroncmb Epsilon_brevecmb Epsilon_uni0313_uni0342 Epsilon_uni0314_uni0342 omicron_macroncmb omicron_brevecmb omicron_uni0342 omicron_uni0313_uni0342 omicron_uni0314_uni0342 Omicron_macroncmb Omicron_brevecmb Omicron_uni0313_uni0342 Omicron_uni0314_uni0342 Rho_uni0313 Upsilon_uni0313 Upsilon_uni0313_acutecomb Upsilon_uni0313_gravecomb Upsilon_uni0313_uni0342
@@ -348,18 +349,18 @@ ChainSub2: class "'calt' Substitution for Initial/Medial/Final forms in Greek-1"
   BClsList: 1
   FClsList:
  1
-  SeqLookup: 0 "Medial/Final Forms for Greek" 
+  SeqLookup: 0 "Medial/Final Forms for Greek"
  1 1 0
   ClsList: 2
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Medial/Final Forms for Greek" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Medial/Final Forms for Greek"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0"
 EndFPST
-ContextSub2: class "'ccmp' Subsitution for Greek Accents-1"  6 1 1 12
+ContextSub2: class "'ccmp' Subsitution for Greek Accents-1" 6 1 1 12
   Class: 165 Alpha Beta Gamma Deltagreek Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omegagreek uni03F9 uni1FBC uni1FCC uni1FFC
   Class: 228 alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mugreek nu xi omicron pi rho sigma sigma1 tau upsilon phi chi psi omega betasymbolgreek thetasymbolgreek pisymbolgreek sigmalunatesymbolgreek rhosymbolgreek uni03D7
   Class: 23 uni0313 uni0314 uni0308
@@ -370,81 +371,81 @@ ContextSub2: class "'ccmp' Subsitution for Greek Accents-1"  6 1 1 12
   BClsList:
   FClsList:
  2
-  SeqLookup: 1 "Capital Accents" 
-  SeqLookup: 2 "Greek Composite Accents" 
+  SeqLookup: 1 "Capital Accents"
+  SeqLookup: 2 "Greek Composite Accents"
  3 0 0
   ClsList: 1 5 3
   BClsList:
   FClsList:
  2
-  SeqLookup: 1 "Capital Accents" 
-  SeqLookup: 2 "Greek Accents" 
+  SeqLookup: 1 "Capital Accents"
+  SeqLookup: 2 "Greek Accents"
  3 0 0
   ClsList: 1 5 4
   BClsList:
   FClsList:
  2
-  SeqLookup: 1 "Capital Accents" 
-  SeqLookup: 2 "Greek Accents" 
+  SeqLookup: 1 "Capital Accents"
+  SeqLookup: 2 "Greek Accents"
  3 0 0
   ClsList: 1 3 4
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Composite Accents" 
+  SeqLookup: 1 "Greek Composite Accents"
  2 0 0
   ClsList: 1 3
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Accents" 
+  SeqLookup: 1 "Greek Accents"
  2 0 0
   ClsList: 1 4
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Accents" 
+  SeqLookup: 1 "Greek Accents"
  4 0 0
   ClsList: 2 5 3 4
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Composite Accents" 
+  SeqLookup: 1 "Greek Composite Accents"
  3 0 0
   ClsList: 2 5 3
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Composite Accents" 
+  SeqLookup: 1 "Greek Composite Accents"
  3 0 0
   ClsList: 2 5 4
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Composite Accents" 
+  SeqLookup: 1 "Greek Composite Accents"
  3 0 0
   ClsList: 2 3 4
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Composite Accents" 
+  SeqLookup: 1 "Greek Composite Accents"
  2 0 0
   ClsList: 2 3
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Accents" 
+  SeqLookup: 1 "Greek Accents"
  2 0 0
   ClsList: 2 4
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Greek Accents" 
-  ClassNames: "0"  "1"  "2"  "3"  "4"  "5"  
-  BClassNames: "0"  
-  FClassNames: "0"  
+  SeqLookup: 1 "Greek Accents"
+  ClassNames: "0" "1" "2" "3" "4" "5"
+  BClassNames: "0"
+  FClassNames: "0"
 EndFPST
-ContextSub2: class "'ccmp' Capital Accents-1"  3 1 1 1
+ContextSub2: class "'ccmp' Capital Accents-1" 3 1 1 1
   Class: 650 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE Ccedilla Eth Oslash Thorn Aogonek Dcroat Eogonek Hbar Iogonek Lslash Eng OE Scedilla Tcommaaccent Tbar Uogonek Oogonek Scommaaccent uni021A uni03F9 afii10051 afii10053 afii10054 afii10055 afii10057 afii10058 afii10059 afii10060 afii10145 afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10024 afii10025 afii10026 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049 afii10146 uni046A afii10147 afii10148 afii10050
   Class: 132 gravecomb acutecomb circumflexcmb tildecomb uni0308 uni030B uni030A uni030C uni0307 macroncmb brevecmb uni030F uni0311 brevecmb.cyrl
  2 0 0
@@ -452,12 +453,12 @@ ContextSub2: class "'ccmp' Capital Accents-1"  3 1 1 1
   BClsList:
   FClsList:
  1
-  SeqLookup: 1 "Capital Accents" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  
+  SeqLookup: 1 "Capital Accents"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0"
 EndFPST
-ContextSub2: class "'ccmp' Dotless Variants-1"  3 1 1 1
+ContextSub2: class "'ccmp' Dotless Variants-1" 3 1 1 1
   Class: 11 i j iogonek
   Class: 102 gravecomb acutecomb circumflexcmb tildecomb uni0308 uni030B uni030A uni030C brevecmb macroncmb uni0307
  2 0 0
@@ -465,11 +466,11 @@ ContextSub2: class "'ccmp' Dotless Variants-1"  3 1 1 1
   BClsList:
   FClsList:
  2
-  SeqLookup: 0 "Dotless Variants" 
-  SeqLookup: 1 "Narrow Accents for i" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  
-  FClassNames: "0"  
+  SeqLookup: 0 "Dotless Variants"
+  SeqLookup: 1 "Narrow Accents for i"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0"
+  FClassNames: "0"
 EndFPST
 TtTable: prep
 PUSHW_1
@@ -1407,10 +1408,10 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Alexey Kryukov" "" "http://www.thessalonica.org.ru" "http://www.thessalonica.org.ru" "Copyright (c) 2007-2008, Alexey Kryukov (alexios@thessalonica.org.ru),+AAoA-with Reserved Font Name +ACIA-Theano+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/ofl" "" "Theano Didot" "Regular" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Alexey Kryukov" "" "http://www.thessalonica.org.ru" "http://www.thessalonica.org.ru" "Copyright (c) 2007-2008, Alexey Kryukov (alexios@thessalonica.org.ru),+AAoA-with Reserved Font Name +ACIA-Theano+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/ofl" "" "Theano Didot" "Regular"
 GaspTable: 3 10 2 24 1 65535 3 0
-OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian" 
-OtfFeatName: 'ss11' 1033 "Contextual Forms in Greek (Initial/Medial Theta)" 
+OtfFeatName: 'ss11' 1033 "Contextual Forms in Greek (Initial/Medial Theta)"
+OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -1418,7 +1419,7 @@ NameList: AGL with PUA
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 688 16 10
+WinInfo: 192 16 10
 BeginPrivate: 6
 BlueValues 35 [-28 0 884 908 1434 1462 1496 1518]
 OtherBlues 31 [-630 -612 -536 -520 -496 -468]
@@ -1429,10 +1430,10 @@ StemSnapV 27 [52 64 108 164 184 208 234]
 EndPrivate
 Grid
 -440 2604 m 0
- -440 -1492 l 0
-  Named: "anchor" 
+ -440 -1492 l 1024
+  Named: "anchor"
 EndSplineSet
-AnchorClass2: "TopMark"  "'mkmk' Mark to Mark-1" "GreekCap"  "'mark' Positioning for Greek Capital Accents" "IotaSubscript"  "'mark' Positioning for Iota Subscriptum" "GreekTop"  "'mark' Positioning for Greek Accents" "TopCap"  "'mark' Positioning for Capital Accents" "DotBelow"  "'mark' Positioning for Dot Below" "Dotaccent"  "'mark' Positioning for Dotaccent" "Grave"  "'mark' Positioning for Grave" "Acute"  "'mark' Positioning for Acute" "Bottom"  "'mark' Positioning for Bottom Accents" "Top"  "'mark' Positioning for Top Accents" 
+AnchorClass2: "TopMark" "'mkmk' Mark to Mark-1" "GreekCap" "'mark' Positioning for Greek Capital Accents" "IotaSubscript" "'mark' Positioning for Iota Subscriptum" "GreekTop" "'mark' Positioning for Greek Accents" "TopCap" "'mark' Positioning for Capital Accents" "DotBelow" "'mark' Positioning for Dot Below" "Dotaccent" "'mark' Positioning for Dotaccent" "Grave" "'mark' Positioning for Grave" "Acute" "'mark' Positioning for Acute" "Bottom" "'mark' Positioning for Bottom Accents" "Top" "'mark' Positioning for Top Accents"
 BeginChars: 65615 1081
 
 StartChar: space
@@ -24506,7 +24507,7 @@ Layer: 2
 Refer: 844 8260 N 1 0 0 1 660 0 2
 Refer: 854 8308 N 1 0 0 1 880 -656 2
 Refer: 120 185 N 1 0 0 1 0 0 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Colour: ffff
 EndChar
 
@@ -25268,7 +25269,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" A afii301 e
 Ligature2: "'rlig' Standard Ligatures with ZWJ" A afii301 E
-LCarets2: 1 1348 
+LCarets2: 1 1348
 Ligature2: "'dlig' Discretionary Ligatures for Latin-1" A E
 Ligature2: "'dlig' Discretionary Ligatures for Latin-1" A e
 EndChar
@@ -27371,7 +27372,7 @@ SplineSet
  803 579 803 579 801 528 c 1,78,-1
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" a afii301 e
-LCarets2: 1 696 
+LCarets2: 1 696
 Ligature2: "'dlig' Discretionary Ligatures for Latin-1" a e
 EndChar
 
@@ -33805,7 +33806,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" O afii301 e
 Ligature2: "'rlig' Standard Ligatures with ZWJ" O afii301 E
-LCarets2: 1 1100 
+LCarets2: 1 1100
 Ligature2: "'dlig' Discretionary Ligatures for Latin-1" O E
 Ligature2: "'dlig' Discretionary Ligatures for Latin-1" O e
 EndChar
@@ -34082,7 +34083,7 @@ SplineSet
  907 589 907 589 907 528 c 1,46,-1
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" o afii301 e
-LCarets2: 1 850 
+LCarets2: 1 850
 Ligature2: "'dlig' Discretionary Ligatures for Latin-1" o e
 EndChar
 
@@ -34396,7 +34397,7 @@ Refer: 52 84 N 1 0 0 1 0 0 3
 Layer: 2
 Refer: 976 63178 N 1 0 0 1 372 0 2
 Refer: 52 84 N 1 0 0 1 0 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Colour: ffff
 EndChar
 
@@ -48963,7 +48964,7 @@ Refer: 440 953 N 1 0 0 1 0 0 3
 Layer: 2
 Refer: 103 168 N 1 0 0 1 -172 0 2
 Refer: 440 953 N 1 0 0 1 0 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Colour: ffff
 EndChar
 
@@ -48981,7 +48982,7 @@ Refer: 452 965 N 1 0 0 1 0 0 3
 Layer: 2
 Refer: 103 168 N 1 0 0 1 6 0 2
 Refer: 452 965 N 1 0 0 1 0 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Colour: ffff
 EndChar
 
@@ -61826,7 +61827,7 @@ SplineSet
  605 836 l 17
  533 695 481 592 417 454 c 0
  360 331 298 188 249 48 c 9
-368 0 m 2
+368 0 m 1026
 EndSplineSet
 Layer: 2
 SplineSet
@@ -61856,7 +61857,7 @@ SplineSet
  605 836 l 1,28,29
  487 605 487 605 417 454 c 0,30,31
  311 226 311 226 249 48 c 9,25,-1
-368 0 m 2,32,-1
+368 0 m 1026,32,-1
 EndSplineSet
 EndChar
 
@@ -97258,7 +97259,7 @@ SplineSet
  84 836 l 1,0,-1
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 f
-LCarets2: 1 632 
+LCarets2: 1 632
 Ligature2: "'dlig' Discretionary Ligatures for German-1" f f
 Ligature2: "'liga' Standard Ligatures for Latin-1" f f
 EndChar
@@ -97529,7 +97530,7 @@ SplineSet
  668 0 l 1,39,-1
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 i
-LCarets2: 1 632 
+LCarets2: 1 632
 Ligature2: "'dlig' Discretionary Ligatures for German-1" f i
 Ligature2: "'liga' Standard Ligatures for Latin except Turkish-1" f i
 EndChar
@@ -97775,7 +97776,7 @@ SplineSet
  84 836 l 1,0,-1
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 l
-LCarets2: 1 604 
+LCarets2: 1 604
 Ligature2: "'liga' Standard Ligatures for Latin-1" f l
 Ligature2: "'dlig' Discretionary Ligatures for German-1" f l
 EndChar
@@ -98209,7 +98210,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 f afii301 i
 Ligature2: "'rlig' Standard Ligatures with ZWJ" ff afii301 i
-LCarets2: 2 632 1212 
+LCarets2: 2 632 1212
 Ligature2: "'dlig' Discretionary Ligatures for German-1" f f i
 Ligature2: "'dlig' Discretionary Ligatures for German-1" ff i
 Ligature2: "'liga' Standard Ligatures for Latin except Turkish-1" f f i
@@ -98620,7 +98621,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 f afii301 l
 Ligature2: "'rlig' Standard Ligatures with ZWJ" ff afii301 l
-LCarets2: 2 632 1184 
+LCarets2: 2 632 1184
 Ligature2: "'dlig' Discretionary Ligatures for German-1" f f l
 Ligature2: "'dlig' Discretionary Ligatures for German-1" ff l
 Ligature2: "'liga' Standard Ligatures for Latin-1" f f l
@@ -99471,7 +99472,7 @@ SplineSet
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 f afii301 j
 Ligature2: "'rlig' Standard Ligatures with ZWJ" ff afii301 j
-LCarets2: 2 632 1212 
+LCarets2: 2 632 1212
 Ligature2: "'dlig' Discretionary Ligatures for German-1" f f j
 Ligature2: "'dlig' Discretionary Ligatures for German-1" ff j
 Ligature2: "'liga' Standard Ligatures for Latin except Turkish-1" f f j
@@ -99779,7 +99780,7 @@ SplineSet
  459 -503 459 -503 459 -404 c 0,39,40
 EndSplineSet
 Ligature2: "'rlig' Standard Ligatures with ZWJ" f afii301 j
-LCarets2: 1 632 
+LCarets2: 1 632
 Ligature2: "'dlig' Discretionary Ligatures for German-1" f j
 Ligature2: "'liga' Standard Ligatures for Latin except Turkish-1" f j
 EndChar
@@ -99799,7 +99800,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 771 8141 N 1 0 0 1 -718 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0313 gravecomb
 Colour: ffff
 EndChar
@@ -99819,7 +99820,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 772 8142 N 1 0 0 1 -718 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0313 acutecomb
 Colour: ffff
 EndChar
@@ -99839,7 +99840,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 773 8143 N 1 0 0 1 -718 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0313 uni0342
 Colour: ffff
 EndChar
@@ -99859,7 +99860,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 782 8157 N 1 0 0 1 -718 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0314 gravecomb
 Colour: ffff
 EndChar
@@ -99879,7 +99880,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 783 8158 N 1 0 0 1 -718 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0314 acutecomb
 Colour: ffff
 EndChar
@@ -99899,7 +99900,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 784 8159 N 1 0 0 1 -718 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0314 uni0342
 Colour: ffff
 EndChar
@@ -99919,7 +99920,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 761 8128 N 1 0 0 1 -880 122 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0342
 Colour: ffff
 EndChar
@@ -99937,7 +99938,7 @@ Fore
 Refer: 762 8129 N 1 0 0 1 -880 0 2
 Layer: 2
 Refer: 762 8129 N 1 0 0 1 -880 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0308 uni0342
 Colour: ffff
 EndChar
@@ -99956,7 +99957,7 @@ Fore
 Refer: 773 8143 N 1 0 0 1 -718 0 2
 Layer: 2
 Refer: 773 8143 N 1 0 0 1 -718 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0313 uni0342
 Colour: ffff
 EndChar
@@ -99975,7 +99976,7 @@ Fore
 Refer: 784 8159 N 1 0 0 1 -718 0 2
 Layer: 2
 Refer: 784 8159 N 1 0 0 1 -718 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0314 uni0342
 Colour: ffff
 EndChar
@@ -100868,7 +100869,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 797 8175 N 1 0 0 1 -718 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" macroncmb gravecomb
 Colour: ffff
 EndChar
@@ -100888,7 +100889,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 390 900 N 1 0 0 1 -544 208 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" macroncmb acutecomb
 Colour: ffff
 EndChar
@@ -100908,7 +100909,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 760 8127 N 1 0 0 1 -718 176 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0313
 Colour: ffff
 EndChar
@@ -100928,7 +100929,7 @@ Refer: 1044 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 806 8190 N 1 0 0 1 -718 176 2
 Refer: 1044 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" macroncmb uni0314
 Colour: ffff
 EndChar
@@ -100948,7 +100949,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 797 8175 N 1 0 0 1 -718 208 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" brevecmb gravecomb
 Colour: ffff
 EndChar
@@ -100968,7 +100969,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 390 900 N 1 0 0 1 -544 208 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" brevecmb acutecomb
 Colour: ffff
 EndChar
@@ -100988,7 +100989,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 760 8127 N 1 0 0 1 -718 208 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" brevecmb uni0313
 Colour: ffff
 EndChar
@@ -101008,7 +101009,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 771 8141 N 1 0 0 1 -718 320 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" brevecmb uni0313 gravecomb
 Colour: ffff
 EndChar
@@ -101028,7 +101029,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 772 8142 N 1 0 0 1 -718 320 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" brevecmb uni0313 acutecomb
 Colour: ffff
 EndChar
@@ -101048,7 +101049,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 806 8190 N 1 0 0 1 -718 208 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" brevecmb uni0314
 Colour: ffff
 EndChar
@@ -101068,7 +101069,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 782 8157 N 1 0 0 1 -718 320 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" brevecmb uni0314 gravecomb
 Colour: ffff
 EndChar
@@ -101088,7 +101089,7 @@ Refer: 1045 -1 N 1 0 0 1 -880 -80 2
 Layer: 2
 Refer: 783 8158 N 1 0 0 1 -718 320 2
 Refer: 1045 -1 N 1 0 0 1 -880 -80 2
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "Greek Composite Accents-1" brevecmb uni0314 acutecomb
 Colour: ffff
 EndChar
@@ -101107,7 +101108,7 @@ Fore
 Refer: 796 8173 N 1 0 0 1 -880 0 2
 Layer: 2
 Refer: 796 8173 N 1 0 0 1 -880 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0308 gravecomb
 Colour: ffff
 EndChar
@@ -101126,7 +101127,7 @@ Fore
 Refer: 771 8141 N 1 0 0 1 -718 0 2
 Layer: 2
 Refer: 771 8141 N 1 0 0 1 -718 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0313 gravecomb
 Colour: ffff
 EndChar
@@ -101145,7 +101146,7 @@ Fore
 Refer: 772 8142 N 1 0 0 1 -718 0 2
 Layer: 2
 Refer: 772 8142 N 1 0 0 1 -718 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0313 acutecomb
 Colour: ffff
 EndChar
@@ -101164,7 +101165,7 @@ Fore
 Refer: 782 8157 N 1 0 0 1 -718 0 2
 Layer: 2
 Refer: 782 8157 N 1 0 0 1 -718 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0314 gravecomb
 Colour: ffff
 EndChar
@@ -101183,7 +101184,7 @@ Fore
 Refer: 783 8158 N 1 0 0 1 -718 0 2
 Layer: 2
 Refer: 783 8158 N 1 0 0 1 -718 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0314 acutecomb
 Colour: ffff
 EndChar

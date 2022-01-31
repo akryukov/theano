@@ -19,21 +19,23 @@ ZIP="zip -DrX"
 PACK_NAME=theano
 DOCS="OFL.txt OFL-FAQ.txt FONTLOG.txt"
 DOCS_SRC="theano-specimen.tex theano160.png"
-VERSION="2.0"
+VERSION="2.1"
 
 rm -f *.zip *.aux *.log
-xelatex theano-specimen.tex
-xelatex theano-specimen.tex
-xelatex theano-specimen.tex
+#xelatex theano-specimen.tex
+#xelatex theano-specimen.tex
+#xelatex theano-specimen.tex
 
 fontforge -script $PACK_NAME-generate.py
 
 for f in *.ttf; do
     BASENAME=${f%.ttf}
-    wine cachett.exe $f ${BASENAME}_hdmx.ttf Theano.cfg
-    mv ${BASENAME}_hdmx.ttf $BASENAME.ttf
     grcompiler -w3521 $BASENAME.gdl $BASENAME.ttf
     mv ${BASENAME}_gr.ttf $BASENAME.ttf
+    #wine ~/bin/cachett.exe $f ${BASENAME}_hdmx.ttf Theano.cfg
+    #mv ${BASENAME}_hdmx.ttf $BASENAME.ttf
+    ttfautohint $BASENAME.ttf ${BASENAME}_ah.ttf
+    mv ${BASENAME}_ah.ttf $BASENAME.ttf
 done
 
 $ZIP $PACK_NAME-$VERSION.ttf.zip  *.ttf $DOCS
